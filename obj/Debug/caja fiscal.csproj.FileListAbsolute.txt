@@ -1,0 +1,13 @@
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\bin\Debug\caja fiscal.exe.config
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\bin\Debug\caja fiscal.exe
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\bin\Debug\caja fiscal.pdb
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja fiscal.csprojAssemblyReference.cache
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja_fiscal.Form1.resources
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja_fiscal.Properties.Resources.resources
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja fiscal.csproj.GenerateResource.cache
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja fiscal.csproj.CoreCompileInputs.cache
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja fiscal.exe
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja fiscal.pdb
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja_fiscal.login.resources
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja_fiscal.menuprincipal.resources
+C:\Users\GILDA VILLEDA\source\repos\caja fiscal\caja fiscal\obj\Debug\caja_fiscal.codigo.resources
